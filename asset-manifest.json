@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./yh-verificationcode/static/css/main.6dea0f05.chunk.css",
-    "main.js": "./yh-verificationcode/static/js/main.955f2aea.chunk.js",
-    "main.js.map": "./yh-verificationcode/static/js/main.955f2aea.chunk.js.map",
-    "runtime-main.js": "./yh-verificationcode/static/js/runtime-main.ee1761c5.js",
-    "runtime-main.js.map": "./yh-verificationcode/static/js/runtime-main.ee1761c5.js.map",
-    "static/js/2.1e4a310c.chunk.js": "./yh-verificationcode/static/js/2.1e4a310c.chunk.js",
-    "static/js/2.1e4a310c.chunk.js.map": "./yh-verificationcode/static/js/2.1e4a310c.chunk.js.map",
-    "static/js/3.c53eedda.chunk.js": "./yh-verificationcode/static/js/3.c53eedda.chunk.js",
-    "static/js/3.c53eedda.chunk.js.map": "./yh-verificationcode/static/js/3.c53eedda.chunk.js.map",
-    "index.html": "./yh-verificationcode/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "./yh-verificationcode/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1e4a310c.chunk.js.LICENSE.txt": "./yh-verificationcode/static/js/2.1e4a310c.chunk.js.LICENSE.txt"
+    "main.css": "/yh-verificationcode/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/yh-verificationcode/static/js/main.955f2aea.chunk.js",
+    "main.js.map": "/yh-verificationcode/static/js/main.955f2aea.chunk.js.map",
+    "runtime-main.js": "/yh-verificationcode/static/js/runtime-main.c358a889.js",
+    "runtime-main.js.map": "/yh-verificationcode/static/js/runtime-main.c358a889.js.map",
+    "static/js/2.1e4a310c.chunk.js": "/yh-verificationcode/static/js/2.1e4a310c.chunk.js",
+    "static/js/2.1e4a310c.chunk.js.map": "/yh-verificationcode/static/js/2.1e4a310c.chunk.js.map",
+    "static/js/3.c53eedda.chunk.js": "/yh-verificationcode/static/js/3.c53eedda.chunk.js",
+    "static/js/3.c53eedda.chunk.js.map": "/yh-verificationcode/static/js/3.c53eedda.chunk.js.map",
+    "index.html": "/yh-verificationcode/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/yh-verificationcode/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1e4a310c.chunk.js.LICENSE.txt": "/yh-verificationcode/static/js/2.1e4a310c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee1761c5.js",
+    "static/js/runtime-main.c358a889.js",
     "static/js/2.1e4a310c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.955f2aea.chunk.js"
